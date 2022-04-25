@@ -1,3 +1,3 @@
 # kodluyoruz-devler
 Ödevlerin tutulduğu repo
-https://app.patika.dev/delikod
+# https://app.patika.dev/delikod
