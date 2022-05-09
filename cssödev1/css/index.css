@@ -1,0 +1,32 @@
+a {
+    font-family: sans-serif;
+}
+h1 {
+    font-family: sans-serif;
+    color:rgb(222, 63, 201);
+    text-align: center;
+}
+
+.baglantilar {
+    text-align: center;
+    word-spacing:10px;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(136, 19, 239);
+    font-family: sans-serif;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(225, 186, 29);
+    font-family: sans-serif;
+}
+
+div { 
+    text-align: center; 
+}
+ul { 
+    display: inline-block; 
+}
